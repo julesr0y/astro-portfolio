@@ -1,9 +1,9 @@
 export const LINKS = {
-  github: "https://github.com/Ladvace",
-  linkedin: "https://www.linkedin.com/in/gianmarco-cavallo/",
-  medium: "https://ladvace.medium.com/",
-  discord: "https://discordapp.com/users/163300027618295808",
-  dribble: "https://dribbble.com/Ladvace_Jace",
+  github: "https://github.com/julesr0y",
+  linkedin: "https://www.linkedin.com/in/julesr0y/",
+  discord: "https://discordapp.com/users/1102534513315303494",
+  instagram: "https://instagram.com/julesr0y/",
+  junia: "https://www.junia.com/fr/formations-admissions/prepa-classes-preparatoires-ingenieur/prepa-informatique-reseaux/"
 };
 
 export const loaderAnimation = [
